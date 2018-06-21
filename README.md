@@ -1,4 +1,4 @@
-# TeamTreehous FullStack JavaScript Techdegree Project1
+# TeamTreehouse FullStack JavaScript Techdegree Project1
 # Random-Quote-Generator
 ![alt text](https://github.com/newKeating/FS-techdegree-project1-RandomQuoteGenerator/blob/master/Pass-confirmed.png)
 
