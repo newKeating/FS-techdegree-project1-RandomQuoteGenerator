@@ -32,11 +32,13 @@ Create a function named printQuote which follows these rules:
 
 printQuote calls the getRandomQuote function and stores the returned quote object in a variable
 printQuote constructs a string containing the different properties of the quote object using the following HTML template:
-`<p class="quote"> [quote here] </p>
+
+```<p class="quote"> [quote here] </p>
 <p class="source"> [source here]
  <span class="citation"> [citation here] </span>
  <span class="year"> [year here] </span>
-</p>`
+</p>```
+
 printQuote doesn't add a <span class="citation"> for a missing citation or a <span class="year"> if the year property is missing
 printQuote displays the final HTML string to the page. You can use this JS snippet to accomplish that: document.getElementById('quote-box').innerHTML
 Add comments to your code.
